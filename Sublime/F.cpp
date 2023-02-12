@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define TC int t; cin>>t;while(t--)
+#define fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+#define ll long long int
+#define nl '\n'
+#define all(x) (x).begin(),(x).end()
+#define pb push_back
+#define ff first 
+#define ss second 
+#define debug(x) cout<<#x<<" "<<x<<nl;
+const ll sz=2e5+7,Inf=1e9+7;
+void solve(int m){
+	int a,b,c,k;
+	cin>>a>>b>>c>>k;
+	if(a==b&&b==c&&a==c){
+		cout<<"Case "<<m<<": "<<"Peaceful";
+		return;
+	}
+}
+int main() {
+  fast;
+  int ct=1;
+  TC{
+  solve(ct);
+  ct++;
+}
+  return 0;
+}

@@ -1,0 +1,71 @@
+Intialize Email:git config --global user.name ""
+Intialize Name:git config --global user.emain ""
+
+Check name d email:
+git config --list
+
+For name Change :
+git config --global user.name ""
+git config --global user.email ""
+
+Git initialization :[ git init ]
+Status:[ git status ]
+Git Add:(stage)[
+
+git add -A (all directoris and subdirector)
+git add . (All but not subdirectoris)
+]
+
+Git (unstage or delete):[
+git rm --cached file name
+]
+
+Git file change:[
+  git diff
+ For Exit:q+enter
+]
+Git commit(staging area to repository) :[
+git commit -m ""
+git log (see commit)
+]
+
+Git uncommit:[
+Recent comment delete:git reset --soft HEAD^
+All commit delete: git reset --hard HEAD^
+]
+Check remote connection :[
+git remote -v //: shows the remote along with url
+
+Remote add:
+git remote add origin url
+git remote (status)
+]
+Clone local repository:git clone url
+
+Remove local repository :rm -rf name
+
+Git push: git push -u origin
+
+
+Git Branch:
+Git branch(check)
+
+create new branch git branch  name
+git branch -M main
+Switch & create: git checkout -b 'branch nam'
+Delete: git branch -d "branch name"
+
+Merged: (main)git merged branch name
+git pull 
+
+Ssh key
+Check:
+ ls -al ~/.ssh
+ssh-add -l
+Create sshkey:
+ssh-keygen ->
+
+Agent add:
+eval $(ssh-agent -s) in this command private key add in agent after do this. Ssh file public key set github ssh key
+ssh-T git@github.com
+
