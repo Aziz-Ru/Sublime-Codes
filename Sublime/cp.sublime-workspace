@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"second"
+			],
+			[
+				"pb",
+				"push_back"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"bi",
+				"binaryExponentiation\tBinaryExponentiation"
+			],
+			[
+				"v",
+				"vec\tvector"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"cou",
+				"cout"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"c",
+				"cnt1"
+			],
+			[
+				"cn",
+				"cnt1"
+			],
+			[
+				"st",
+				"st\tset"
+			],
+			[
+				"wi",
+				"while"
+			],
+			[
+				"h",
+				"hash"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"su",
+				"sum2"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"ns",
+				"namespace"
+			],
+			[
+				"def",
+				"define"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inputf.in",
+			"settings":
+			{
+				"buffer_size": 61,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "outputf.in",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: main()"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: if",
+				"Snippet: If Condition"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hp-probook/Desktop/Cp-Sublime"
+	],
+	"file_history":
+	[
+		"/home/hp-probook/Desktop/Cp Sublime/F.cpp",
+		"/home/hp-probook/Desktop/Sublime/vitaly&substring.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/main.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/inputf.in",
+		"/home/hp-probook/Desktop/Cp Sublime/outputf.in",
+		"/home/hp-probook/Desktop/Cp Sublime/EdU143/Edu143B.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/EdU143/Edu143A.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/CF852/852C.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/847B.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/CF852/852B.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/CF852/852A.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/edu141B.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/sumOfDigits.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/851B2.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/851C.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/851B.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/841A.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/factorization.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/telportDiv4850.cpp",
+		"/home/hp-probook/.config/sublime-text-3/Packages/User/BinaryExponentiation.sublime-snippet",
+		"/home/hp-probook/.config/sublime-text-3/Packages/User/seive.sublime-snippet",
+		"/home/hp-probook/.config/sublime-text-3/Packages/User/gcd.sublime-snippet",
+		"/home/hp-probook/Desktop/Cp Sublime/coinchane2.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/ss.cpp",
+		"/home/hp-probook/Desktop/Cp Sublime/sublime-text_build-3211_amd64.deb",
+		"/home/hp-probook/Desktop/Cp Sublime/Package Control Messages",
+		"/home/hp-probook/Desktop/Cp Sublime/lcs.cpp",
+		"/home/hp-probook/.config/sublime-text-3/Packages/User/set.sublime-snippet",
+		"/home/hp-probook/.config/sublime-text-3/Packages/User/map.sublime-snippet",
+		"/home/hp-probook/.config/sublime-text-3/Packages/User/cp.sublime-snippet",
+		"/home/hp-probook/.config/sublime-text-3/Packages/User/vector.sublime-snippet",
+		"/home/hp-probook/.config/sublime-text-3/Packages/User/c++14.sublime-build",
+		"/home/hp-probook/Desktop/Cp-Sublime/input.txt",
+		"/home/hp-probook/Desktop/Cp-Sublime/Main.cpp",
+		"/home/hp-probook/Desktop/Cp-Sublime/output.txt",
+		"/home/hp-probook/.config/sublime-text-3/Packages/User/template.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "inputf.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "outputf.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.76542413195,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/c++14.sublime-build",
+	"project": "cp.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
