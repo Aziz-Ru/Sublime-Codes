@@ -1,0 +1,10 @@
+{
+	
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"C++",
+		"Vintage"
+	],
+	"color_scheme": "Monokai.sublime-color-scheme",
+}

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+vector<ll>v;
+void seive(){
+	bool a[sz]={0};
+		for(ll i=2;i<50;i++){
+			if(a[i]==0){
+			  for(ll j=i+i;j<50;j+=i)
+			 a[j]=1;
+		 	}
+	 	 }
+		  for(int i=2;i<50;i++)
+		  if(a[i]==0) v.pb(i);
+	}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>seive</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.c++</scope> -->
+</snippet>

@@ -1,3 +1,5 @@
+<snippet>
+	<content><![CDATA[
 #include <bits/stdc++.h>
 using namespace std;
 #define TC int t; cin>>t;while(t--)
@@ -11,17 +13,21 @@ using namespace std;
 #define debug(x) cout<<#x<<" "<<x<<nl;
 const ll sz=2e5+7,Inf=1e9+7;
 void solve(){
-	ll n;
-	cin>>n;
-	int a[n];
-	for(int i=0;i<n;i++) cin>>a[i];
-		sort(a,a+n);
-	for(int i=0;i<n;i++) cout<<a[i]<<" ";
+	
 }
-
 int main() {
   fast;
+  #ifndef ONLINE_JUDGE
+	freopen("input.txt", "r", stdin);
+	freopen("output.txt", "w", stdout);
+  #endif
   TC
   solve();
   return 0;
 }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cp</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope> -->
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+ll binaryExponentiation(ll base,ll pow){
+		ll ans=1;
+		while (pow)
+		{
+		if(pow&1) ans*=base;//ans=ans*base%m;
+		 base*=base;//base=base*base%m;
+		 pow/=2;
+		}
+	return ans;
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>binaryExponentiation</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope> -->
+</snippet>

@@ -11,16 +11,22 @@ using namespace std;
 #define debug(x) cout<<#x<<" "<<x<<nl;
 const ll sz=2e5+7,Inf=1e9+7;
 void solve(){
-	ll n;
-	cin>>n;
-	int a[n];
-	for(int i=0;i<n;i++) cin>>a[i];
-		sort(a,a+n);
-	for(int i=0;i<n;i++) cout<<a[i]<<" ";
-}
+	int x,y;
+	cin>>x>>y;
+	vector<int>v;
+	for(int i=x;i>y;i--)v.push_back(i);
+	for(int i=y;i<x;i++) v.push_back(i);
 
+		cout<<v.size()<<nl;
+	for(auto x: v) cout<<x<<" ";
+		cout<<nl;
+}
 int main() {
   fast;
+  #ifndef ONLINE_JUDGE
+  freopen("a.txt", "r", stdin);
+  freopen("o.txt", "w", stdout);
+  #endif
   TC
   solve();
   return 0;

@@ -11,16 +11,33 @@ using namespace std;
 #define debug(x) cout<<#x<<" "<<x<<nl;
 const ll sz=2e5+7,Inf=1e9+7;
 void solve(){
-	ll n;
-	cin>>n;
-	int a[n];
-	for(int i=0;i<n;i++) cin>>a[i];
-		sort(a,a+n);
-	for(int i=0;i<n;i++) cout<<a[i]<<" ";
-}
+  int n; cin>>n;
+	string s;
+  cin>>s;
 
+  map<string,int>p;
+  bool pk=false;
+  for(int i=0;i<n-1;i++){
+   if(p.count(s.substr(i,2))==1){
+    pk=true;
+    break;
+   }
+   if(i>0) {
+    string a=s.substr(i-1,2);
+    cout<<a<<" ";
+    p[s.substr(i-1,2)]++;
+   }
+  }
+  
+  if(pk)cout<<"YES"<<nl;
+  else cout<<"NO"<<nl;
+}
 int main() {
   fast;
+  #ifndef ONLINE_JUDGE
+	freopen("input.txt", "r", stdin);
+	freopen("output.txt", "w", stdout);
+  #endif
   TC
   solve();
   return 0;
